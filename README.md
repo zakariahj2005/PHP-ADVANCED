@@ -2,7 +2,7 @@
 
 > Bijvoorbeeld:  
 >
-> ## PHP-Basic
+> ## PHP-ADVANCED
 
 ## Uitleg
 
