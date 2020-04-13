@@ -10,9 +10,9 @@
 
 In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld
 ```
-$studenten = array("Piet", "Mohammed", "Els"); 
+$studenten = array("Piet", "Muhammad", "Els"); 
 ```
-Als we de naam Mohammed willen tonen op het scherm zouden we dat als volgt kunnen doen (let op: een numerieke array begint bij het getal 0):
+Als we de naam Muhammad willen tonen op het scherm zouden we dat als volgt kunnen doen (let op: een numerieke array begint bij het getal 0):
 ```
 echo $studenten[1];
 ```
@@ -20,16 +20,16 @@ echo $studenten[1];
 Een associative array gebruikt geen getallen maar relevante woorden. Bijvoorbeeld:
 ```
 $lengte['Piet'] = 187;
-$lengte['Mohammed'] = 184;
+$lengte['Muhammad'] = 184;
 $lengte['Els'] = 168;
 ```
 Als we de lengte van Els zouden willen tonen in een zin, zouden we dit als volgt kunnen doen:
 ```
-echo “De lengte van Els is ”. $lengte['Els'] . “ centimeter”;
+echo "De lengte van Els is ". $lengte['Els'] . " centimeter";
 ```
 Een andere manier om dezelfde array te vullen is als volgt:
 ```
-$lengte = array("Piet"=>187, "Mohammed"=>184, "Els"=>168);
+$lengte = array("Piet"=>187, "Muhammad"=>184, "Els"=>168);
 ```
 ## Leerdoelen
 
@@ -50,11 +50,15 @@ Voor één van de studenten toon je de gegevens van de array op het scherm.
 
 ## Eindresultaat
 
-
+Gegevens Muhammad:
+Voornaam: Muhammad
+Achternaam: Ali
+Leeftijd: 17
+Klas: 9G
 
 ## Bronnen
 
 Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+
+>[W3 Schools - PHP Associative Arrays](https://www.w3schools.com/php/php_arrays_associative.asp)  
+
