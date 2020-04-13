@@ -1,7 +1,7 @@
 # MODULENAAM-TAAK-NR
 
 > Bijvoorbeeld:  
-> PHP-Basic-Taak-01
+> PHP-Advanced-Niveau1-Taak1
 
 ## Titel
 
@@ -12,20 +12,34 @@ Geef de taak een pakkende titel.
 
 ## Uitleg
 
-Introducerende tekst. Uitleggen nut van de opdracht eventueel met praktijk voorbeelden.
- 
-xxFuncties zijn een manier om je code onder te verdelen in logische blokken. Jij kan dan bepalen wanneer het blok code dat in een functie zit wordt uitegevoerd in plaats dat alle code in een script van boven naar beneden wordt uitgevoerd.
->
->Vooral als de hoeveelheid code toeneemt is het handig om goed na te denken hoe je de code kan scheiden zodat je niet telkens dezelfde code schrijft.
->  
-> In deze les leer je hoe je een aangeleverde functie aanroept zodat de code die in die functie staat wordt uitgevoerd.
+In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld
+
+$studenten = array("Piet", "Mohammed", "Els"); 
+
+Als we de naam Mohammed willen tonen op het scherm zouden we dat als volgt kunnen doen (let op: een numerieke array begint bij het getal 0):
+
+echo $studenten[1];
+
+
+Een associative array gebruikt geen getallen maar relevante woorden. Bijvoorbeeld:
+
+$lengte['Piet'] = 187;
+$lengte['Mohammed'] = 184;
+$lengte['Els'] = 168;
+
+Als we de lengte van Els zouden willen tonen in een zin, zouden we dit als volgt kunnen doen:
+
+echo “De lengte van Els is ”. $lengte['Els'] . “ centimeter”;
+
+Een andere manier om dezelfde array te vullen is als volgt:
+
+$lengte = array("Piet"=>187, "Mohammed"=>184, "Els"=>168);
 
 ## Leerdoelen
 
-Eén of meerdere leerdoelen die het liefst SMART zijn geformuleerd en slaan op de inhoud van deze taak.  
-> Voorbeeld:
->
-> 1. [ ] Ik kan met PHP een functie aanspreken
+1. Ik weet het verschil tussen een numerieke- en een associative array
+2. Ik kan een associative array aanmaken en vullen
+3. Ik kan een associative array gebruiken om iets op een scherm te tonen
 
 ## Opdracht
 
