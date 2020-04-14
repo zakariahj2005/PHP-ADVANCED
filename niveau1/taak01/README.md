@@ -9,26 +9,26 @@
 ## Uitleg
 
 In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld
-```
+```php
 $studenten = array("Piet", "Muhammad", "Els"); 
 ```
 Als we de naam Muhammad willen tonen op het scherm zouden we dat als volgt kunnen doen (let op: een numerieke array begint bij het getal 0):
-```
+```php
 echo $studenten[1];
 ```
 
 Een associative array gebruikt geen getallen maar relevante woorden. Bijvoorbeeld:
-```
+```php
 $lengte['Piet'] = 187;
 $lengte['Muhammad'] = 184;
 $lengte['Els'] = 168;
 ```
 Als we de lengte van Els zouden willen tonen in een zin, zouden we dit als volgt kunnen doen:
-```
+```php
 echo "De lengte van Els is ". $lengte['Els'] . " centimeter";
 ```
 Een andere manier om dezelfde array te vullen is als volgt:
-```
+```php
 $lengte = array("Piet"=>187, "Muhammad"=>184, "Els"=>168);
 ```
 ## Leerdoelen
