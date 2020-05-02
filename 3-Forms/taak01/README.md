@@ -19,8 +19,8 @@ https://web.microsoftstream.com/video/435e7577-f978-4887-a530-e29f2fd2e426?list=
 
 ## Opdracht
 
-1. Maak twee bestanden aan invoer.html en mijngegevens.php
-2. maak in invoer.html een formulier met de volgende input-velden:
+1. [ ] Maak twee bestanden aan invoer.html en mijngegevens.php
+2. [ ] maak in invoer.html een formulier met de volgende input-velden:
     - voornaam
     - achternaam
     - klas
@@ -29,8 +29,8 @@ https://web.microsoftstream.com/video/435e7577-f978-4887-a530-e29f2fd2e426?list=
     - plaatsnaam
     - favoriete muziekband 
     - [verzend-button]
-3. Zorg ervoor dat het formulier bij verzenden wordt gestuurd (ge-POST!) naar pagina mijngegevens.php op de juiste manier.
-4. Geef met mijngegevens.php op een nette manier de gegevens die zijn ingevoerd in het formulier weer op het scherm.
+3. [ ] Zorg ervoor dat het formulier bij verzenden wordt gestuurd (ge-POST!) naar pagina mijngegevens.php op de juiste manier.
+4. [ ] Geef met mijngegevens.php op een nette manier de gegevens die zijn ingevoerd in het formulier weer op het scherm.
 Vergeet hierbij niet alle htmlcodes (html, header, body, etc.)!
 
 ## Eindresultaat
@@ -39,7 +39,5 @@ Vergeet hierbij niet alle htmlcodes (html, header, body, etc.)!
 
 ## Bronnen
 
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
 W3 Schools - PHP Form handling: https://www.w3schools.com/php/php_forms.asp
 
