@@ -24,13 +24,13 @@ Dit is toen geoefend met simpele text input fields. Je kunt ook andere input fie
 
 ## Opdracht
 
-[ ] Breidt de bestanden van de vorige taak uit: invoer.html en mijngegevens.php
-[ ] voeg in het formulier de volgende onderdelen toe:
+1. [ ] Breidt de bestanden van de vorige taak uit: invoer.html en mijngegevens.php
+2. [ ] voeg in het formulier de volgende onderdelen toe:
     - radio buttons met de naam 'geslacht' en met de waarden 'man' en 'vrouw'
     - een select box met de naam 'lievelingskleur' en tenminste vijf verschillende kleur-opties. Dit moeten tekstjes zijn die in HTML kunnen worden gebruikt. Bijvoorbeeld voor rood: red of #FF0000
-[ ] Zorg ervoor dat het formulier bij verzenden wordt gestuurd (ge-POST!) naar pagina mijngegevens.php op de juiste manier.
-[ ] Voeg het gekozen geslacht toe aan de informatie die op het scherm wordt getoond.
-[ ] Maak de kleur van de achtergrond van het resultaat scherm de gekozen kleur
+3. [ ] Zorg ervoor dat het formulier bij verzenden wordt gestuurd (ge-POST!) naar pagina mijngegevens.php op de juiste manier.
+4. [ ] Voeg het gekozen geslacht toe aan de informatie die op het scherm wordt getoond.
+5. [ ] Maak de kleur van de achtergrond van het resultaat scherm de gekozen kleur
 
 ## Eindresultaat
 
