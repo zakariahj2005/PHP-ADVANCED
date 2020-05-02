@@ -35,7 +35,7 @@ Vergeet hierbij niet alle htmlcodes (html, header, body, etc.)!
 
 ## Eindresultaat
 
-
+![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak01/images/resultaat.png)
 
 ## Bronnen
 
