@@ -34,7 +34,7 @@ Dit is toen geoefend met simpele text input fields. Je kunt ook andere input fie
 
 ## Eindresultaat
 
-![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak02/images/resultaat.png)
+![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak02/images/reslutaat.png)
 
 ## Bronnen
 
