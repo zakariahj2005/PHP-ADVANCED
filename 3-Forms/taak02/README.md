@@ -1,7 +1,7 @@
 # PHP-Advanced-Forms-Taak-02
 
 
-## Forms - POST
+## Forms - POST - deel2
 
 
 ## Uitleg
@@ -38,5 +38,5 @@ Dit is toen geoefend met simpele text input fields. Je kunt ook andere input fie
 
 ## Bronnen
 
-W3 Schools - PHP Form handling: (https://www.w3schools.com/php/php_forms.asp)
-W3 Schools - HTML Input fields: https://www.w3schools.com/html/html_form_input_types.asp
+> [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
+> [W3 Schools - HTML Input fields](https://www.w3schools.com/html/html_form_input_types.asp)

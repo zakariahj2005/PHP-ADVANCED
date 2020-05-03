@@ -1,7 +1,7 @@
 # PHP-Advanced-Forms-Taak-01
 
 
-## Forms - POST
+## Forms - POST - deel1
 
 
 ## Uitleg
@@ -38,7 +38,5 @@ Vergeet hierbij niet alle htmlcodes (html, header, body, etc.)!
 ![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak01/images/resultaat.png)
 
 ## Bronnen
-
-
-W3 Schools - PHP Form handling: https://www.w3schools.com/php/php_forms.asp
+> [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
 
