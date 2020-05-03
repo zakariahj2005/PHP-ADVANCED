@@ -38,7 +38,5 @@ Dit is toen geoefend met simpele text input fields. Je kunt ook andere input fie
 
 ## Bronnen
 
-Een lijstje van links naar externe bronnen
-> Bijvoorbeeld:  
 W3 Schools - PHP Form handling: https://www.w3schools.com/php/php_forms.asp
-
+W3 Schools - HTML Input fields: https://www.w3schools.com/html/html_form_input_types.asp

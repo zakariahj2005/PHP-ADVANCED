@@ -39,5 +39,9 @@ Vergeet hierbij niet alle htmlcodes (html, header, body, etc.)!
 
 ## Bronnen
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> rnEdit1
 W3 Schools - PHP Form handling: https://www.w3schools.com/php/php_forms.asp
 
