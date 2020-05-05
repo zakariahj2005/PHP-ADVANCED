@@ -8,14 +8,14 @@
 
 Introducerende tekst. Uitleggen nut van de module eventueel met praktijk voorbeelden.
 > Voorbeeld:  
-> In deze module leer je de basis van PHP. Je leert o.a. welke datatypes er in PHP veel gebruikt worden, hoe je de uitvoering van je programma beinvloed door het gebruik van condities binnen if/else/elif structuren en hoe je je code logisch onderverdeeld in functies.  
+> In deze module leer je de basis van PHP. Je leert o.a. welke datatypes er in PHP veel gebruikt worden, hoe je de uitvoering van je programma beïnvloedt door het gebruik van condities binnen if/else/elif-structuren en hoe je je code logisch onderverdeelt in functies.  
 
 ## Leerdoelen
 
-Alle leerdoelen die in de lossen taken naar voren komen?  
+Alle leerdoelen die in de losse taken naar voren komen?  
 > Voorbeeld:
 >
-> 1. [ ] Ik kan met PHP een functie aanspreken
+> 1. [ ] Ik spreek met PHP een functie aan
 
 ## Bronnen
 
