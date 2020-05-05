@@ -8,11 +8,11 @@
 
 ## Uitleg
 
-In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld
+In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld:
 ```php
 $studenten = array("Piet", "Muhammad", "Els"); 
 ```
-Als we de naam Muhammad willen tonen op het scherm zouden we dat als volgt kunnen doen (let op: een numerieke array begint bij het getal 0):
+Als we de naam Muhammad willen tonen op het scherm, zouden we dat als volgt kunnen doen: (let op: een numerieke array begint bij het getal 0):
 ```php
 echo $studenten[1];
 ```
@@ -39,7 +39,7 @@ $lengte = array("Piet"=>187, "Muhammad"=>184, "Els"=>168);
 
 ## Opdracht
 
-Maak voor drie studenten, drie associatieve arrays $Piet, $Mohammed en $Els
+Maak voor drie studenten, drie associatieve arrays: $Piet, $Mohammed en $Els
 Per student vul je de array met waarden voor:
 - voornaam
 - achternaam
