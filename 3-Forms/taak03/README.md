@@ -6,17 +6,17 @@
 
 ## Uitleg
 
-! zorg er voor dat als je aan deze taak begint de eerste twee taken hebt gedaan, of kijk of je de onderdelen van de leerdoelen al beheerst!
+Doe eerst de eerste twee taken voor je aan deze taak begint of kijk of je de leerdoelen daarvan al beheerst!
 
-In taak 01 en 02 hebben we gekeken naar het versturen van gegevens met een HTMLformulier naar een .php script. Daar hebben we de gegevens gebruikt met $_POST. Er zijn ook nog andere manieren om data naar een .php-script te sturen. Dit gaan we bekijken in de volgende video:
+In taak 01 en 02 hebben we gekeken naar het versturen van gegevens met een HTMLformulier naar een .php-script. Daar hebben we de gegevens gebruikt met $_POST. Er zijn ook nog andere manieren om data naar een .php-script te sturen. Dit gaan we bekijken in de volgende video:
 
 https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=studio
 
 ## Leerdoelen
 
-- De student begrijpt het verschil tussen POST en GET
-- De student weet wat een $_GET variabele is en hoe deze kan worden gebruikt
-- De student weet hoe een url samengesteld kan worden waarin parameters staan die worden gebruikt in een PHPscript door middel van $_GET
+- Je begrijpt het verschil tussen POST en GET
+- Je gebruit een $_GET-variabele op de juiste manier
+- Je weet hoe een url samengesteld kan worden waarin parameters staan die worden gebruikt in een PHP-script door middel van $_GET
 
 ## Opdracht
 
@@ -32,7 +32,7 @@ https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=
     - [verzend-button]
 3. [ ] Zorg ervoor dat het formulier bij verzenden wordt gestuurd (ge-POST!) naar pagina mijngegevens.php op de juiste manier.
 4. [ ] Geef met mijngegevens.php op een nette manier de gegevens die zijn ingevoerd in het formulier weer op het scherm.
-Vergeet hierbij niet alle htmlcodes (html, header, body, etc.)!
+Vergeet hierbij niet alle html-codes (html, header, body, etc.)!
 
 ## Eindresultaat
 
