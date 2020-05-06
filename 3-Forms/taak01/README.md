@@ -10,6 +10,8 @@ Met formulieren (forms) kunnen bezoekers van een website communiceren met een pr
 
 https://web.microsoftstream.com/video/435e7577-f978-4887-a530-e29f2fd2e426?list=studio
 
+![Aanvullend de PowerPoint gebruikt in de video](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak02/images/php-forms-post.pdf)
+
 ## Leerdoelen
 
 - De student kan een HTML-formulier maken dat geschikt is om informatie / data naar een PHP-script te sturen

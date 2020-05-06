@@ -14,6 +14,12 @@ In taak 01 heb je gezien dat een input-field van een formulier kan worden gebrui
 
 Je hebt dit gedaan met simpele text-input-fields. Je kunt ook andere input-fields hiervoor gebruiken. Zolang het veld een naam heeft, kan het worden verstuurd en worden gebruikt als een $_POST variabele.
 
+Als herhaling zou je de video van de eerste taak over POSTS kunnen bekijken:
+
+https://web.microsoftstream.com/video/435e7577-f978-4887-a530-e29f2fd2e426?list=studio
+
+![Aanvullend de PowerPoint gebruikt in de video](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak02/images/php-forms-post.pdf)
+
 ## Leerdoelen
 
 - Je maakt een HTML-formulier dat geschikt is om informatie / data naar een PHP-script te sturen

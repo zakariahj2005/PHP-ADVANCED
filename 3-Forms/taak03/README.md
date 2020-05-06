@@ -12,6 +12,8 @@ In taak 01 en 02 hebben we gekeken naar het versturen van gegevens met een HTML-
 
 https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=studio
 
+![Aanvullend de PowerPoint gebruikt in de video](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak03/images/php-forms-get.pdf)
+
 ## Leerdoelen
 
 - Je begrijpt het verschil tussen POST en GET
@@ -20,23 +22,16 @@ https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=
 
 ## Opdracht
 
-1. [ ] Maak twee bestanden aan invoer.html en mijngegevens.php
-2. [ ] maak in invoer.html een formulier met de volgende input-velden:
-    - voornaam
-    - achternaam
-    - klas
-    - leeftijd
-    - adres
-    - plaatsnaam
-    - favoriete muziekband 
-    - [verzend-button]
-3. [ ] Zorg ervoor dat het formulier bij verzenden wordt gestuurd (ge-POST!) naar pagina mijngegevens.php op de juiste manier.
+1. [ ] 
+
+
+
 4. [ ] Geef met mijngegevens.php op een nette manier de gegevens die zijn ingevoerd in het formulier weer op het scherm.
 Vergeet hierbij niet alle html-codes (html, header, body, etc.)!
 
 ## Eindresultaat
 
-![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak01/images/resultaat.png)
+![Eindresultaat]()
 
 ## Bronnen
 > [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
