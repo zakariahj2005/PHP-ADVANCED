@@ -22,7 +22,15 @@ https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=
 
 ## Opdracht
 
-1. [ ] 
+1. [ ] Maak een bestand mijnmuziek.php aan
+2. [ ] Zorg er voor dat als deze pagina in de browser wordt aangeroepen (via een server / bv XAMPP) een overzicht geeft van jouw favoriete nummer en bijbehorende gegevens:
+- Artiest
+- Titel
+- Jaar van uitkomst
+- Muzieksoort
+3. [ ] De gegevens die worden getoond op de pagina, worden gehaald uit parameters (variabelen) die in de url staan
+4. [ ] Stel een url samen waarmee de pagina met jouw favoriete nummer met gegevens kan worden getoond
+5. [ ] Zet deze url als commentaar in het php-bestand voor je de opdracht inlevert!
 
 
 
