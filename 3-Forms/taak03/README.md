@@ -32,11 +32,6 @@ https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=
 4. [ ] Stel een url samen waarmee de pagina met jouw favoriete nummer met gegevens kan worden getoond
 5. [ ] Zet deze url als commentaar in het php-bestand voor je de opdracht inlevert!
 
-
-
-4. [ ] Geef met mijngegevens.php op een nette manier de gegevens die zijn ingevoerd in het formulier weer op het scherm.
-Vergeet hierbij niet alle html-codes (html, header, body, etc.)!
-
 ## Eindresultaat
 
 ![Eindresultaat]()
