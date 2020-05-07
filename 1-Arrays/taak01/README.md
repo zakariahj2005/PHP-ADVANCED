@@ -8,6 +8,10 @@
 
 ## Uitleg
 
+Hieronder volgt een uitleg over associatieve array's. Hierover is ook een video gemaakt. Deze kun je bekijken via:
+
+https://web.microsoftstream.com/video/25e19156-d010-46f4-a275-d94b8db2ec4c
+
 In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld:
 ```php
 $studenten = array("Piet", "Muhammad", "Els"); 
