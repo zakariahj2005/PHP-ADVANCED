@@ -1,14 +1,10 @@
 # PHP-Advanced-Loops-Taak-01
 
 
-## Loops - Foreach deel1
+## Loops - Foreach deel2
 
 
 ## Uitleg
-
-Loops is een manier om 1 of meerdere regels PHPcode meerdere keren te laten uitvoeren. We behandelen in PHP Advanced in verschillende taken verschillende soorten loops. 
-
-In deze taak wordt de foreach loop behandeld. Kijk naar de video voor een uitleg over de foreach-loop
 
 https://web.microsoftstream.com/video/08cb12bd-0829-40b3-b4a8-9cb95808285f
 
