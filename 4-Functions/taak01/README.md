@@ -34,7 +34,7 @@ Je kunt functies ook ‘slimmer’ maken, door ze extra informatie mee te geven.
 
 Voorbeeld:
 
-~~~
+~~~php
 <?php
 
 function schrijfNaam( $naam ) {
@@ -55,7 +55,7 @@ Op deze manier kun je de functie schrijfNaam dus gebruiken voor vele namen. Als 
 
 
 
-~~~
+~~~php
 <?php
 
 schrijfNaam(“Bert”);

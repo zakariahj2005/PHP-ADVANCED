@@ -23,7 +23,8 @@ Deze taak is een vervolg / uitbreiding op Loops taak03. Maak eerst taak03 voor j
 1. [ ] Maak een bestand loops-foreach-deel2.php aan
 2. [ ] Neem hierin de volgende nummerieke array over:
 
-```
+```php
+
 $klassen = array("8A", "8B", "8C", "8D", "8E", "9A", "9B", "9C", "9D", "9E");
 
 ```
