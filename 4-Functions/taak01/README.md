@@ -10,7 +10,7 @@ In de module PHP Basic is er een introductie geweest over het gebruik van functi
 
 Een voorbeeld hiervan is:
 
-~~~
+~~~javascript
 <?php
 
 function schrijfNaam() {
@@ -34,7 +34,7 @@ Je kunt functies ook ‘slimmer’ maken, door ze extra informatie mee te geven.
 
 Voorbeeld:
 
-
+~~~
 <?php
 
 function schrijfNaam( $naam ) {
