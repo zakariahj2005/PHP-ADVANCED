@@ -12,7 +12,8 @@ In taak 01 en 02 hebben we gekeken naar het versturen van gegevens met een HTML-
 
 https://web.microsoftstream.com/video/0678a2ca-b3a2-4089-842e-b160cab030a1?list=studio
 
-![Aanvullend de PowerPoint gebruikt in de video](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak03/images/php-forms-get.pdf)
+Aanvullend de PowerPoint gebruikt in de video:
+https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak03/images/php-forms-get.pdf
 
 ## Leerdoelen
 
