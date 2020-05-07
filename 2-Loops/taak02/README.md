@@ -17,12 +17,17 @@ In deze taak wordt de for loop behandeld. In onderstaande powerpoint staat een u
 1. [ ] De student weet wat een loop is algemeen
 2. [ ] De student weet wat een for loop is en weet wat de onderdelen van de syntax zijn
 3. [ ] De student weet wanneer je kiest voor een for loop
-4. [ ] De student kan zelf een while for gebruiken in php
+4. [ ] De student kan zelf een for loop gebruiken in php
 
 ## Opdracht
 
-1. [ ]
-2. [ ]
+Deze opdracht is een variatie van de opdracht in Loops taak01. Het resultaat is hetzelfde. Toch is de code die je moet schrijven voor een groot deel anders!
+
+1. [ ] Maak een bestand loops-for.php aan
+2. [ ] maak hierin een for loop die een beginwaarde 0 heeft, die als conditie heeft dat de loopvariabele kleiner moet zijn dan 18 en die de loopvariabele steeds met 1 ophoogt. De loop wordt dus 18 keer doorlopen!
+3. [ ] Iedere keer dat de loop wordt doorlopen wordt er een echo gegeven met de tekst "Ik ben x jaar, dus ik mag nog niet stemmen", waarbij x de waarde heeft van de variabele leeftijd
+4. [ ] Onder de for loop wordt de tekst op het scherm getoond: "Ik ben 18 jaar oud dus ik heb stemrecht!"
+5. [ ] Breid de opdracht uit door er voor te zorgen dat de regels die op het scherm worden getoond in een (unorderd HTML) list. 
 
 ## Eindresultaat
 
