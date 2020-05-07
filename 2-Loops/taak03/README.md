@@ -40,5 +40,5 @@ $dagen = array("maandag", "dinsadg", "woensdag", "donderdag", "vrijdag", "zaterd
 ![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak03/images/resultaat.png)
 
 ## Bronnen
-> [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_looping_foreach.asp)
+> [W3 Schools - PHP loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
 

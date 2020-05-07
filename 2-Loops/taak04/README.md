@@ -37,5 +37,5 @@ $klassen = array("8A", "8B", "8C", "8D", "8E", "9A", "9B", "9C", "9D", "9E");
 ![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak04/images/resultaat.png)
 
 ## Bronnen
-> [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_looping_foreach.asp)
+> [W3 Schools - PHP Loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
 
