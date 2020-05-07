@@ -12,7 +12,8 @@ In deze taak wordt de while loop behandeld. Kijk naar de video voor een uitleg o
 
 https://web.microsoftstream.com/video/b073092f-2082-4b64-80c5-fad09ef21aa3
 
-![Aanvullend de PowerPoint gebruikt in de video](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak01/images/php-loops-while.pdf)
+Aanvullend de PowerPoint gebruikt in de video:
+https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak01/images/php-loops-while.pdf
 
 ## Leerdoelen
 

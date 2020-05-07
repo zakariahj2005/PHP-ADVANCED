@@ -10,7 +10,8 @@ Loops is een manier om 1 of meerdere regels PHPcode meerdere keren te laten uitv
 
 In deze taak wordt de for loop behandeld. In onderstaande powerpoint staat een uitleg over de for-loop. Wil je meer weten over wat een loop precies is, dan wordt aangeraden eerst de video uit de vorige taak te bekijken. 
 
-![Bekijk de powerpoint met de uitleg over de for-loop](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak02/images/php-loops-for.pdf)
+Bekijk de powerpoint met de uitleg over de for-loop:
+https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak02/images/php-loops-for.pdf
 
 ## Leerdoelen
 

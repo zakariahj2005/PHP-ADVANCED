@@ -14,7 +14,8 @@ In deze taak wordt de foreach loop behandeld. Kijk naar de video voor een uitleg
 
 https://web.microsoftstream.com/video/08cb12bd-0829-40b3-b4a8-9cb95808285f
 
-![Aanvullend de PowerPoint gebruikt in de video](![Aanvullend de PowerPoint gebruikt in de video](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak03/images/php-loops-foreach.pdf))
+Aanvullend de PowerPoint gebruikt in de video:
+https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak03/images/php-loops-foreach.pdf
 
 ## Leerdoelen
 
