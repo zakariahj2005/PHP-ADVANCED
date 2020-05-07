@@ -37,7 +37,7 @@ Voorbeeld:
 ~~~php
 <?php
 
-function schrijfNaam( $naam ) {
+function schrijfNaam($naam) {
 
   echo "Mijn naam is $naam";
 
@@ -70,24 +70,24 @@ schrijfNaam(“Lisa”);
 
 ## Leerdoelen
 
-. [ ] 
-. [ ] 
-. [ ] 
-. [ ] 
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] 
 
 
 ## Opdracht
 
 
-. [ ] 
-. [ ] 
-. [ ] 
-. [ ] 
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] 
 
 
 ## Eindresultaat
 
-![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/3-Forms/taak02/images/reslutaat.png)
+![Eindresultaat]()
 
 ## Bronnen
 
