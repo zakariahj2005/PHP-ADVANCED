@@ -32,7 +32,7 @@ Deze opdracht is een variatie van de opdracht in Loops taak01. Het resultaat is 
 
 ## Eindresultaat
 
-![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-loops/taak02/images/resultaat.png)
+![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak02/images/resultaat.png)
 
 ## Bronnen
 > [W3 Schools - PHP Loops FOR](https://www.w3schools.com/php/php_looping_for.asp)
