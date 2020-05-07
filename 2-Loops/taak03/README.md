@@ -19,9 +19,10 @@ https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master
 
 ## Leerdoelen
 
-1. [ ]
-2. [ ]
-
+1. [ ] De student weet wat een loop is algemeen
+2. [ ] De student weet wat een foreach loop is en begrijpt hoe deze door een array loopt
+3. [ ] De student weet wanneer je kiest voor een foreach loop
+4. [ ] De student kan zelf een foreach loop gebruiken in php om de waarden van een array te gebruiken
 ## Opdracht
 
 1. [ ]
