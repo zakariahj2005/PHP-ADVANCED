@@ -33,7 +33,7 @@ https://web.microsoftstream.com/video/b073092f-2082-4b64-80c5-fad09ef21aa3
 
 ## Eindresultaat
 
-![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-loops/taak01/images/resultaat.png)
+![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak01/images/resultaat.png)
 
 ## Bronnen
 > [W3 Schools - PHP Loops WHILE](https://www.w3schools.com/php/php_looping_while.asp)
