@@ -37,14 +37,14 @@ De opdracht bestaat uit twee stappen. In de eerste stap (Opdracht 1) maak je al 
 1. [ ] Maak twee bestanden aan, genaamd advanced-1.php en advanced-2.php
 2. [ ] Plaats in beide bestanden standaard HTMLpagina code. Dit omdat beide bestanden als pagina in de browser moeten worden getoond
 3. [ ] Maak in het bestand advanced-1.php een formulier aan waarin je de volgende input fields plaatst:
-1. tekstkleur 
+a. tekstkleur 
 dit is een sellectbox die dmv een foreach loop wordt gemaakt van de volgende array:
 ~~~php
 $kleuren = array("red", "blue", "green", "black", "brown")
 ~~~
-2. achtergrondkleur van de pagina
-2. tabel-border dikte
-3. padding (in pixels voor de tabelcel)
+b. achtergrondkleur van de pagina (maak ook hier gebruik van de array $kleuren)
+c. tabel-border dikte
+d. padding (in pixels voor de tabelcel)
 4. een verstuurknop
 4. [ ] De ingevoerde data van het formulier worden verstuurd (gePOST) naar het bestand advanced-2.php
 5. [ ] In advanced-2.php maak je een associatieve array aan met gegevens over jezelf. Bijvoorbeeld: naam, leeftijd, muzieksmaak, woonplaats, sport, etc.
