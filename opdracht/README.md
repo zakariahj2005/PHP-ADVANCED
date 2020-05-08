@@ -4,7 +4,7 @@
 
 > ## Eindtaak PHP-Advanced
 
-In deze eindtaak krijgen jullie ene opdracht die de technieken die in de verschillende delen van PHP Advanced zijn behandeld. Niet alle technieken komen aan bod, maar in ieder geval één belangrijke per subonderdeel. De onderdelen van deze module waren:
+In deze eindtaak krijgen jullie een opdracht met technieken die in de verschillende delen van PHP Advanced zijn behandeld. Niet alle technieken komen aan bod, maar in ieder geval één belangrijke per subonderdeel. De onderdelen van deze module waren:
 
 - Associatieve Array's
 - Loops
@@ -20,16 +20,19 @@ In deze eindtaak krijgen jullie ene opdracht die de technieken die in de verschi
 
 ## Uitleg
 
-De opdracht is om een klein cv te maken van jezelf. Deze wordt op een mooie manier weergegeven op basis van een formulier waar je stylen kunt aangeven. Na versturing wordt het cv in een tweede scherm getoond.
+De opdracht is om een kleine pagina te maken met informatie over jezelf. Deze wordt op een mooie manier weergegeven op basis van een formulier waar je stylen kunt aangeven. Na versturing wordt het cv in een tweede scherm getoond.
 
+Dus eerst zie je een formulier in je browser waarin je kunt instellen hoe de pagina over jezelf er uit komt te zien en na het versturen van dat formulier zie je jouw informatie.
+
+De opdracht bestaat uit twee stappen. In de eerste stap (Opdracht 1) maak je al de gehele functionaliteit van de applicatie. In de tweede stap (opdracht 2) ga je aan de slag om dezelfde applicatie op een andere manier (met aangepaste code) uit te voeren.
 
 
 ## Leerdoelen
 
 1. [ ] De student kan de verschillende behandelde PHP-technieken toepassen en combineren tot één geheel
 
-## Opdracht 1
 
+## Opdracht 1
 
 1. [ ] Maak twee bestanden aan, genaamd advanced-1.php en advanced-2.php
 2. [ ] Plaats in beide bestanden standaard HTMLpagina code. Dit omdat beide bestanden als pagina in de browser moeten worden getoond
@@ -39,10 +42,11 @@ dit is een sellectbox die dmv een foreach loop wordt gemaakt van de volgende arr
 ~~~php
 $kleuren = array("red", "blue", "green", "black", "brown")
 ~~~
+2. achtergrondkleur van de pagina
 2. tabel-border dikte
 3. padding (in pixels voor de tabelcel)
 4. een verstuurknop
-4. [ ] De ingevoerde data van het formulier worden gePOST naar het bestand advanced-2.php
+4. [ ] De ingevoerde data van het formulier worden verstuurd (gePOST) naar het bestand advanced-2.php
 5. [ ] In advanced-2.php maak je een associatieve array aan met gegevens over jezelf. Bijvoorbeeld: naam, leeftijd, muzieksmaak, woonplaats, sport, etc.
 6. [ ] Met een foreach loop doorloop je deze gemaakte array en maak je hiervan een tabel
 7. [ ] De stijl van deze tabel en inhoud wordt bepaald door de data die is verstuurd met het formulier in advanced-1.php
