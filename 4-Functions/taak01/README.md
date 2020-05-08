@@ -10,7 +10,7 @@ In de module PHP Basic is er een introductie geweest over het gebruik van functi
 
 Een voorbeeld hiervan is:
 
-~~~javascript
+~~~php
 <?php
 
 function schrijfNaam() {
@@ -43,14 +43,12 @@ function schrijfNaam($naam) {
 
 }
 
-
 // de functie uit laten voeren:
-
 schrijfNaam(“Bert”);
-‘
 
 ?>
 ~~~
+
 Op deze manier kun je de functie schrijfNaam dus gebruiken voor vele namen. Als je een andere naam wilt tonen op het scherm, roep je dezelfde functie aan met een andere naam:
 
 
