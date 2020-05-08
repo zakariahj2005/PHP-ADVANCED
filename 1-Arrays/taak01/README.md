@@ -17,6 +17,7 @@ In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's
 $studenten = array("Piet", "Muhammad", "Els"); 
 ```
 Als we de naam Muhammad willen tonen op het scherm, zouden we dat als volgt kunnen doen: (let op: een numerieke array begint bij het getal 0):
+
 ```php
 echo $studenten[1];
 ```

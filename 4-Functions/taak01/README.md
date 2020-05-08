@@ -1,7 +1,7 @@
 # PHP-Advanced-Functions-Taak-01
 
 
-## Functions
+## Functions met argumenten deel 1
 
 
 ## Uitleg
@@ -70,24 +70,24 @@ schrijfNaam(“Lisa”);
 
 ## Leerdoelen
 
-1. [ ] 
-2. [ ] 
-3. [ ] 
-4. [ ] 
+1. [ ] Herhaling begrip en gebruik functions algemeen
+2. [ ] De student weet wat een argument is bij een functie
+3. [ ] De student kan een functie opstellen waarin een argument wordt meegegeven
+4. [ ] De student kan een functie aanroepen met het gebruik van een argument
 
 
 ## Opdracht
 
 
-1. [ ] 
-2. [ ] 
-3. [ ] 
-4. [ ] 
-
+1. [ ] Maak een nieuw bestand genaamd functies-1.php en zet daar de basis HTML code in voor een pagina
+2. [ ] Maak een PHP functie genaamd 'schrijfKleur' die een argument mee kan krijgen
+3. [ ] Het argument dat meegegeven wordt is een string dat als een color-style kan worden gebruikt. Bijvoorbeeld 'rood' of '#FF0000'
+4. [ ] Zorg er voor dat als de functie wordt aangeroepen met de kleur als argument, een tekst naar het scherm wordt geschreven in de meegegeven kleur. Dus iets als 'Deze tekst is in de kleur red', waarbij de tekst ook in het rood staat.
+5. [ ] Roep de functie vier keer aan met steeds een andere kleur
 
 ## Eindresultaat
 
-![Eindresultaat]()
+![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/4-Functions/taak01/images/resultaat.png)
 
 ## Bronnen
 
