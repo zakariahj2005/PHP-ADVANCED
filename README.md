@@ -1,25 +1,41 @@
-# MODULENAAM
+# PHP-Advanced-Eindtaak
 
-> Bijvoorbeeld:  
->
-> ## PHP-ADVANCED
+## Titel
+
+> ## Eindtaak PHP-Advanced
+
 
 ## Uitleg
 
-Introducerende tekst. Uitleggen nut van de module eventueel met praktijk voorbeelden.
-> Voorbeeld:  
-> In deze module leer je de basis van PHP. Je leert o.a. welke datatypes er in PHP veel gebruikt worden, hoe je de uitvoering van je programma beïnvloedt door het gebruik van condities binnen if/else/elif-structuren en hoe je je code logisch onderverdeelt in functies.  
+
 
 ## Leerdoelen
 
-Alle leerdoelen die in de losse taken naar voren komen?  
-> Voorbeeld:
->
-> 1. [ ] Ik spreek met PHP een functie aan
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] 
+
+
+## Opdracht
+
+
+1. [ ] 
+2. [ ] 
+3. [ ] 
+4. [ ] 
+5. [ ] 
+
+
+## Eindresultaat
+
+![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/opdracht/images/resultaat.png)
 
 ## Bronnen
 
-Alle bronnen die in de lossen taken naar voren komen?
-> Bijvoorbeeld:  
->[W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)  
->[Jaap van der Veen - PHP Basiscursus Les3: Functies](https://phpbasis.jaapvdveen.nl/basiscursus-php/les-3-inleiding-functies/)  
+> [W3 Schools - PHP Associative Arrays](https://www.w3schools.com/php/php_arrays_associative.asp)  
+> [W3 Schools - PHP Loops WHILE](https://www.w3schools.com/php/php_looping_while.asp)
+> [W3 Schools - PHP Loops FOR](https://www.w3schools.com/php/php_looping_for.asp)
+> [W3 Schools - PHP Loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
+> [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
+> [W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)
