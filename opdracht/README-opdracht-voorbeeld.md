@@ -1,25 +1,8 @@
-# MODULENAAM-Eindtaak
-
-> Bijvoorbeeld:  
-> PHP-Basic-Taak-01
+# PHP-Advanced-Eindtaak
 
 ## Titel
 
-Geef de taak een pakkende titel.  
-> Bijvoorbeeld:  
->  
-> ## First Function
-
-
-
-
-
-
-
-# PHP-Advanced-Functions-Taak-02
-
-
-## Functions met argumenten deel 2
+> ## Eindtaak PHP-Advanced
 
 
 ## Uitleg
@@ -44,12 +27,16 @@ Geef de taak een pakkende titel.
 5. [ ] 
 
 
-
 ## Eindresultaat
 
 ![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/opdracht/images/resultaat.png)
 
 ## Bronnen
 
+> [W3 Schools - PHP Associative Arrays](https://www.w3schools.com/php/php_arrays_associative.asp)  
+> [W3 Schools - PHP Loops WHILE](https://www.w3schools.com/php/php_looping_while.asp)
+> [W3 Schools - PHP Loops FOR](https://www.w3schools.com/php/php_looping_for.asp)
+> [W3 Schools - PHP Loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
+> [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
 > [W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)
 
