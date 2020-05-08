@@ -1,4 +1,4 @@
-# PHP-Advanced-Loops-Taak-01
+# PHP-Advanced-Loops-Taak-03
 
 
 ## Loops - Foreach deel1
@@ -28,7 +28,7 @@ https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master
 1. [ ] Maak een bestand loops-foreach-deel1.php aan
 2. [ ] Neem hierin de volgende nummerieke array over:
 
-```
+```php
 $dagen = array("maandag", "dinsadg", "woensdag", "donderdag", "vrijdag", "zaterdag", "zondag");
 
 ```
