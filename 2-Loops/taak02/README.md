@@ -37,3 +37,10 @@ Deze opdracht is een variatie van de opdracht in Loops taak01. Het resultaat is 
 ## Bronnen
 > [W3 Schools - PHP Loops FOR](https://www.w3schools.com/php/php_looping_for.asp)
 
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:92899471
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
