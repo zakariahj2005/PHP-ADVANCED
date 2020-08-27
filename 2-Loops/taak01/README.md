@@ -37,4 +37,5 @@ https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master
 ![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak01/images/resultaat.png)
 
 ## Bronnen
+
 > [W3 Schools - PHP Loops WHILE](https://www.w3schools.com/php/php_looping_while.asp)
