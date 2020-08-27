@@ -1,16 +1,14 @@
 # PHP-Advanced-Loops-Taak-01
 
-
 ## Loops - While
-
 
 ## Uitleg
 
-Loops is een manier om 1 of meerdere regels PHPcode meerdere keren te laten uitvoeren. We behandelen in PHP Advanced in verschillende taken verschillende soorten loops. 
+Loops is een manier om 1 of meerdere regels PHPcode meerdere keren te laten uitvoeren. We behandelen in PHP Advanced in verschillende taken verschillende soorten loops.
 
 In deze taak wordt de while loop behandeld. Kijk naar de video voor een uitleg over de while-loop
 
-https://web.microsoftstream.com/video/b073092f-2082-4b64-80c5-fad09ef21aa3
+[Video](https://web.microsoftstream.com/video/b073092f-2082-4b64-80c5-fad09ef21aa3)
 
 Aanvullend de PowerPoint gebruikt in de video:
 https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak01/images/php-loops-while.pdf
