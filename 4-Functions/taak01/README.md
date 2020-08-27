@@ -92,3 +92,10 @@ schrijfNaam(“Lisa”);
 > [W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)
 
 
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:72989470
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
