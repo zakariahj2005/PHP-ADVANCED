@@ -1,8 +1,6 @@
 # PHP-Advanced-Loops-Taak-05
 
-
 ## Loops - Foreach deel3
-
 
 ## Uitleg
 
@@ -20,6 +18,7 @@ foreach($dagen as $value){
 }
 
 ```
+
 Hier krijgt bij iedere loop $value een andere waarde. Eerst 'maandag', daarna 'dinsdag', etc.
 
 Bij een foreach loop die door een associatieve array heen gaat, wil je ook de beschrijvingsnaam gebruiken. De zogenaamde key. Voorbeeld:
@@ -29,13 +28,14 @@ Bij een foreach loop die door een associatieve array heen gaat, wil je ook de be
 $lengte = array("Piet"=>188, "Els"=>168, "Muhammad"=>176);
 
 ```
+
 Hier is Piet een 'key' en 187 een 'waarde'
 key: Muhammad - waarde: 184
 key: Els - waarde: 168
 
 In onderstaande foreach loop worden zowel de 'key' als de 'waarde' gebruikt:
 
-~~~php
+```php
 
 <?php
 
@@ -46,14 +46,12 @@ foreach($lengte as $key => $value) {
 }
 
 ?>
-
-~~~
-
+```
 
 ## Leerdoelen
 
 1. [ ] De student kan een foreach loop maken die door een associatieve array heen loopt
-2. [ ] De student kan met deze foreach loop een html tabel vullen
+2. [ ] De student kan met deze foreach loop de keys en values van een associatieve array op het scherm tonen
 
 ## Opdracht
 
@@ -62,24 +60,20 @@ foreach($lengte as $key => $value) {
 
 ```php
 
-$klassen = array(
-        $student  = array(
-        "voornaam" => "Jan",
-        "achternaam" => "Janssen",
-        "klas" => "9A",
-        "Leeftijd" => 17,
-        "Woonplaats" => "Amstelveen"
-    );
+$student  = array(
+  "voornaam"    => "Jan",
+  "achternaam"  => "Janssen",
+  "klas"        => "9A",
+  "Leeftijd"    => 17,
+  "Woonplaats"  => "Amstelveen"
+);
 
 ```
 
-3. [ ] Maak met behulp van een foreach loop en de array $klassen een nette HTML tabel. Met in de eerste kolom de beschrijving en in de tweede- de waarde. Zie het eindresultaatplaatje voor een voorbeeld.
-
+3. [ ] Toon de keys en de values van de $student array op het scherm
 
 ## Eindresultaat
 
-![Eindresultaat](https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master/2-Loops/taak05/images/resultaat.png)
-
 ## Bronnen
-> [W3 Schools - PHP Loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
 
+> [W3 Schools - PHP Loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
