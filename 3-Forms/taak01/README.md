@@ -45,9 +45,3 @@ Vergeet hierbij niet alle html-codes (html, header, body, etc.)!
 
 
 
-
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:32466634
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->

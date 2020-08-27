@@ -126,11 +126,3 @@ Tip: Let er op je gebruik van quotes bij het meegeven van de argumenten. Een get
 
 > [W3 Schools - PHP Functions](https://www.w3schools.com/php/php_functions.asp)
 
-
-
-
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:86000036
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->
