@@ -39,3 +39,10 @@ https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master
 ## Bronnen
 > [W3 Schools - PHP Loops WHILE](https://www.w3schools.com/php/php_looping_while.asp)
 
+
+
+<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
+------------------ ------------------------------ ------------
+------------------ eagle ref:73825641
+------------------ ------------------------------ ------------
+------------------ DIT COMMENTAAR LATEN STAAN AUB -------- -->
