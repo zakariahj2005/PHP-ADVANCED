@@ -47,9 +47,3 @@ https://web.microsoftstream.com/video/435e7577-f978-4887-a530-e29f2fd2e426?list=
 > [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
 > [W3 Schools - HTML Input fields](https://www.w3schools.com/html/html_form_input_types.asp)
 
-
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:65394404
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->

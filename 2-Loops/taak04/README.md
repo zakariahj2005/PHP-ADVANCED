@@ -40,10 +40,3 @@ $klassen = array("8A", "8B", "8C", "8D", "8E", "9A", "9B", "9C", "9D", "9E");
 ## Bronnen
 > [W3 Schools - PHP Loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
 
-
-
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:56265166
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->

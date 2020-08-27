@@ -40,10 +40,3 @@ https://github.com/ROC-van-Amsterdam-College-Amstelland/PHP-ADVANCED/blob/master
 ## Bronnen
 > [W3 Schools - PHP Form handling](https://www.w3schools.com/php/php_forms.asp)
 
-
-
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:76034068
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->

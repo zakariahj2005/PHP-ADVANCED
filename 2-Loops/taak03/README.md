@@ -43,9 +43,3 @@ $dagen = array("maandag", "dinsadg", "woensdag", "donderdag", "vrijdag", "zaterd
 > [W3 Schools - PHP loops foreach](https://www.w3schools.com/php/php_looping_foreach.asp)
 
 
-
-<!--- ------------ DIT COMMENTAAR LATEN STAAN AUB ------------
------------------- ------------------------------ ------------
------------------- eagle ref:13000396
------------------- ------------------------------ ------------
------------------- DIT COMMENTAAR LATEN STAAN AUB -------- -->
