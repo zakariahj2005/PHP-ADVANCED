@@ -1,16 +1,12 @@
-# MODULENAAM-TAAK-NR
+# PHP-ADVANCED - ARRAYS
 
-> PHP-Advanced-Niveau1-Taak1
-
-## Titel
-
-> ## Associative Arrays
+## Taak 01 - Associatieve Arrays
 
 ## Uitleg
 
 Hieronder volgt een uitleg over associatieve array's. Hierover is ook een video gemaakt. Deze kun je bekijken via:
 
-https://web.microsoftstream.com/video/25e19156-d010-46f4-a275-d94b8db2ec4c
+[Uitleg video](https://web.microsoftstream.com/video/25e19156-d010-46f4-a275-d94b8db2ec4c)
 
 In PHP-Basic hebben we al kennis gemaakt met numerieke array's. Dit zijn array's waarbij elke waarde van de array is aan te roepen met een getal. Bijvoorbeeld:
 
@@ -53,14 +49,6 @@ $lengte = array("Piet"=>187, "Muhammad"=>184, "Els"=>168);
 
 ## Opdracht
 
-Maak voor drie studenten, drie associatieve arrays: $Piet, $Mohammed en $Els
-Per student vul je de array met waarden voor:
-
-- voornaam
-- achternaam
-- leeftijd
-- klas
-
 Voor één van de studenten toon je de gegevens van de array op het scherm.
 
 ## Eindresultaat
@@ -76,4 +64,3 @@ Klas: 9G
 Een lijstje van links naar externe bronnen
 
 >[W3 Schools - PHP Associative Arrays](https://www.w3schools.com/php/php_arrays_associative.asp)  
-
