@@ -8,6 +8,6 @@ $student  = array(
 );
 
 foreach ($student as $key => $value){
-    echo " $value <br> ";
+    echo " $key $value <br> ";
 }
 ?>
