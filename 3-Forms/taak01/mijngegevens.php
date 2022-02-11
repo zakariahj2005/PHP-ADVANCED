@@ -1,36 +1,16 @@
 <?php
-if($_POST["voornaam"]){
-    echo $_POST['voornaam'];
-    echo "<br>";
-}
+echo $_POST["voornaam"];
 
-if($_POST["achternaam"]){
-    echo $_POST['achternaam'];
-    echo "<br>";
-}
+echo $_POST["achternaam"];
 
-if($_POST["klas"]){
-    echo $_POST['klas'];
-    echo "<br>";
-}
+echo $_POST["klas"];
 
-if($_POST["leeftijd"]){
-    echo $_POST['leeftijd'];
-    echo "<br>";
-}
+echo $_POST["leeftijd"];
 
-if($_POST["adres"]){
-    echo $_POST['adres'];
-    echo "<br>";
-}
+echo $_POST["adres"];
 
-if($_POST["plaatsnaam"]){
-    echo $_POST['plaatsnaam'];
-    echo "<br>";
-}
+echo $_POST["plaatsnaam"];
 
-if($_POST["favoriete_muziekband"]){
-    echo $_POST['favoriete_muziekband'];
-    echo "<br>";
-}
+echo $_POST["favoriete_muziekband"];
+
 ?>
