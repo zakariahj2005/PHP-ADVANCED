@@ -6,5 +6,6 @@ $student = array(
     "leeftijd"=>16
 );
 
+echo $student["naam"];
 
 ?>
