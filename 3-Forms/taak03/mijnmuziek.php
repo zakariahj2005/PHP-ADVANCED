@@ -13,7 +13,7 @@
     jaar:    <input name='jaar'> <br><br>
     muzieksoort:  <input name='muzieksoort'> <br><br>
 
-    <button>stuur b</button>
+    <button>stuur</button>
 
 </form>
 
