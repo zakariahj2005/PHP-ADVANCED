@@ -5,16 +5,31 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+
+    <style>
+        label{
+            font-size:15px;
+            font-weight: bold;
+            margin-bottom:5px;
+        }
+
+        p{
+            margin:0;
+            padding:0;
+            padding-bottom: 5px;
+        }
+    </style>
 </head>
 <body>
 <form action="mijngegevens.php" method="post">
-voornaam:     <br> <input type = "text " name = "voornaam"><br><br>
-achternaam:   <br> <input type = "text " name = "achternaam"><br><br>
-klas:         <br> <input type = "text " name = "klas"><br><br>
-leeftijd:     <br> <input type = "text " name = "leeftijd"><br><br>
-adres:        <br> <input type = "text " name = "adres"><br><br>
-plaatsnaam:   <br> <input type = "text " name = "plaatsnaam"><br><br>
-favoriete muziekband:   <br> <input type = "text " name = "favoriete_muziekband"><br><br>
+    <p><input type="text" name="voornaam" placeholder="voornaam"></p>
+    <p><input type="text" name = "achternaam" placeholder="achternaam"></p>
+    <p><input type="text" name = "klas" placeholder="klas"></p>
+    <p><input type="number" name="leeftijd" placeholder="leeftijd"></p>
+    <p><input type="text" name="adres" placeholder="adres"></p>
+    <p><input type="text" name="plaatsnaam" placeholder="plaatsnaam"></p>
+    <p><input type="text" name="favoriete_muziekband" placeholder="favoriete_muziekband"></p>
+<br>
     <input type= "submit" value="verstuur">
 </form>
 </body>
